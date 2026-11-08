@@ -2,6 +2,14 @@
 # Author: Elizabeth Boden
 # Module 11 Lab
 
+# 1. I would use .get() when I am not sure if a key exists because it
+# gives me the option of a default value instead of causing a KeyError. I
+# would use [] when I know that the key exists and I want to access its value.
+
+# 2. Exercise 8 reminds me of SUMIF in Excel because it adds numbers based 
+# on categories. Python is more useful for large datasets because it can 
+# automatically organize and calculate information much faster. 
+
 # --- Exercise 1: One Customer ---
 print("--- Exercise 1: One Customer ---")
 
